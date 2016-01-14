@@ -1,16 +1,7 @@
-package fr.cobaltians.fonts.fontAwesome;
+package org.cobaltians.fonts.fontAwesome;
 
 import android.content.Context;
-import android.content.pm.PackageManager;
-import android.content.res.Resources;
-import android.graphics.Canvas;
 import android.graphics.Color;
-import android.graphics.ColorFilter;
-import android.graphics.Paint;
-import android.graphics.PixelFormat;
-import android.graphics.Typeface;
-import android.graphics.drawable.Drawable;
-import android.text.TextPaint;
 import android.util.Log;
 
 import fr.cobaltians.cobalt.Cobalt;
