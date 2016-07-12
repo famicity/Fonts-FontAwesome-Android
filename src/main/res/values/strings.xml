@@ -13,14 +13,11 @@
     <string name="fa_th" translatable="false">&#xf00a;</string>
     <string name="fa_th_list" translatable="false">&#xf00b;</string>
     <string name="fa_check" translatable="false">&#xf00c;</string>
-    <string name="fa_close" translatable="false">&#xf00d;</string>
     <string name="fa_remove" translatable="false">&#xf00d;</string>
-    <string name="fa_times" translatable="false">&#xf00d;</string>
     <string name="fa_search_plus" translatable="false">&#xf00e;</string>
     <string name="fa_search_minus" translatable="false">&#xf010;</string>
     <string name="fa_power_off" translatable="false">&#xf011;</string>
     <string name="fa_signal" translatable="false">&#xf012;</string>
-    <string name="fa_cog" translatable="false">&#xf013;</string>
     <string name="fa_gear" translatable="false">&#xf013;</string>
     <string name="fa_trash_o" translatable="false">&#xf014;</string>
     <string name="fa_home" translatable="false">&#xf015;</string>
@@ -32,7 +29,6 @@
     <string name="fa_arrow_circle_o_up" translatable="false">&#xf01b;</string>
     <string name="fa_inbox" translatable="false">&#xf01c;</string>
     <string name="fa_play_circle_o" translatable="false">&#xf01d;</string>
-    <string name="fa_repeat" translatable="false">&#xf01e;</string>
     <string name="fa_rotate_right" translatable="false">&#xf01e;</string>
     <string name="fa_refresh" translatable="false">&#xf021;</string>
     <string name="fa_list_alt" translatable="false">&#xf022;</string>
@@ -61,18 +57,14 @@
     <string name="fa_align_justify" translatable="false">&#xf039;</string>
     <string name="fa_list" translatable="false">&#xf03a;</string>
     <string name="fa_dedent" translatable="false">&#xf03b;</string>
-    <string name="fa_outdent" translatable="false">&#xf03b;</string>
     <string name="fa_indent" translatable="false">&#xf03c;</string>
     <string name="fa_video_camera" translatable="false">&#xf03d;</string>
-    <string name="fa_image" translatable="false">&#xf03e;</string>
     <string name="fa_photo" translatable="false">&#xf03e;</string>
-    <string name="fa_picture_o" translatable="false">&#xf03e;</string>
     <string name="fa_pencil" translatable="false">&#xf040;</string>
     <string name="fa_map_marker" translatable="false">&#xf041;</string>
     <string name="fa_adjust" translatable="false">&#xf042;</string>
     <string name="fa_tint" translatable="false">&#xf043;</string>
     <string name="fa_edit" translatable="false">&#xf044;</string>
-    <string name="fa_pencil_square_o" translatable="false">&#xf044;</string>
     <string name="fa_share_square_o" translatable="false">&#xf045;</string>
     <string name="fa_check_square_o" translatable="false">&#xf046;</string>
     <string name="fa_arrows" translatable="false">&#xf047;</string>
@@ -103,7 +95,6 @@
     <string name="fa_arrow_up" translatable="false">&#xf062;</string>
     <string name="fa_arrow_down" translatable="false">&#xf063;</string>
     <string name="fa_mail_forward" translatable="false">&#xf064;</string>
-    <string name="fa_share" translatable="false">&#xf064;</string>
     <string name="fa_expand" translatable="false">&#xf065;</string>
     <string name="fa_compress" translatable="false">&#xf066;</string>
     <string name="fa_plus" translatable="false">&#xf067;</string>
@@ -115,7 +106,6 @@
     <string name="fa_fire" translatable="false">&#xf06d;</string>
     <string name="fa_eye" translatable="false">&#xf06e;</string>
     <string name="fa_eye_slash" translatable="false">&#xf070;</string>
-    <string name="fa_exclamation_triangle" translatable="false">&#xf071;</string>
     <string name="fa_warning" translatable="false">&#xf071;</string>
     <string name="fa_plane" translatable="false">&#xf072;</string>
     <string name="fa_calendar" translatable="false">&#xf073;</string>
@@ -130,13 +120,11 @@
     <string name="fa_folder_open" translatable="false">&#xf07c;</string>
     <string name="fa_arrows_v" translatable="false">&#xf07d;</string>
     <string name="fa_arrows_h" translatable="false">&#xf07e;</string>
-    <string name="fa_bar_chart" translatable="false">&#xf080;</string>
     <string name="fa_bar_chart_o" translatable="false">&#xf080;</string>
     <string name="fa_twitter_square" translatable="false">&#xf081;</string>
     <string name="fa_facebook_square" translatable="false">&#xf082;</string>
     <string name="fa_camera_retro" translatable="false">&#xf083;</string>
     <string name="fa_key" translatable="false">&#xf084;</string>
-    <string name="fa_cogs" translatable="false">&#xf085;</string>
     <string name="fa_gears" translatable="false">&#xf085;</string>
     <string name="fa_comments" translatable="false">&#xf086;</string>
     <string name="fa_thumbs_o_up" translatable="false">&#xf087;</string>
@@ -157,16 +145,14 @@
     <string name="fa_bookmark_o" translatable="false">&#xf097;</string>
     <string name="fa_phone_square" translatable="false">&#xf098;</string>
     <string name="fa_twitter" translatable="false">&#xf099;</string>
-    <string name="fa_facebook" translatable="false">&#xf09a;</string>
     <string name="fa_facebook_f" translatable="false">&#xf09a;</string>
     <string name="fa_github" translatable="false">&#xf09b;</string>
     <string name="fa_unlock" translatable="false">&#xf09c;</string>
     <string name="fa_credit_card" translatable="false">&#xf09d;</string>
     <string name="fa_feed" translatable="false">&#xf09e;</string>
-    <string name="fa_rss" translatable="false">&#xf09e;</string>
     <string name="fa_hdd_o" translatable="false">&#xf0a0;</string>
     <string name="fa_bullhorn" translatable="false">&#xf0a1;</string>
-    <string name="fa_bell_o" translatable="false">&#xf0a2;</string>
+    <string name="fa_bell" translatable="false">&#xf0f3;</string>
     <string name="fa_certificate" translatable="false">&#xf0a3;</string>
     <string name="fa_hand_o_right" translatable="false">&#xf0a4;</string>
     <string name="fa_hand_o_left" translatable="false">&#xf0a5;</string>
@@ -183,22 +169,15 @@
     <string name="fa_briefcase" translatable="false">&#xf0b1;</string>
     <string name="fa_arrows_alt" translatable="false">&#xf0b2;</string>
     <string name="fa_group" translatable="false">&#xf0c0;</string>
-    <string name="fa_users" translatable="false">&#xf0c0;</string>
     <string name="fa_chain" translatable="false">&#xf0c1;</string>
-    <string name="fa_link" translatable="false">&#xf0c1;</string>
     <string name="fa_cloud" translatable="false">&#xf0c2;</string>
     <string name="fa_flask" translatable="false">&#xf0c3;</string>
     <string name="fa_cut" translatable="false">&#xf0c4;</string>
-    <string name="fa_scissors" translatable="false">&#xf0c4;</string>
     <string name="fa_copy" translatable="false">&#xf0c5;</string>
-    <string name="fa_files_o" translatable="false">&#xf0c5;</string>
     <string name="fa_paperclip" translatable="false">&#xf0c6;</string>
-    <string name="fa_floppy_o" translatable="false">&#xf0c7;</string>
     <string name="fa_save" translatable="false">&#xf0c7;</string>
     <string name="fa_square" translatable="false">&#xf0c8;</string>
-    <string name="fa_bars" translatable="false">&#xf0c9;</string>
     <string name="fa_navicon" translatable="false">&#xf0c9;</string>
-    <string name="fa_reorder" translatable="false">&#xf0c9;</string>
     <string name="fa_list_ul" translatable="false">&#xf0ca;</string>
     <string name="fa_list_ol" translatable="false">&#xf0cb;</string>
     <string name="fa_strikethrough" translatable="false">&#xf0cc;</string>
@@ -216,27 +195,19 @@
     <string name="fa_caret_left" translatable="false">&#xf0d9;</string>
     <string name="fa_caret_right" translatable="false">&#xf0da;</string>
     <string name="fa_columns" translatable="false">&#xf0db;</string>
-    <string name="fa_sort" translatable="false">&#xf0dc;</string>
     <string name="fa_unsorted" translatable="false">&#xf0dc;</string>
-    <string name="fa_sort_desc" translatable="false">&#xf0dd;</string>
     <string name="fa_sort_down" translatable="false">&#xf0dd;</string>
-    <string name="fa_sort_asc" translatable="false">&#xf0de;</string>
     <string name="fa_sort_up" translatable="false">&#xf0de;</string>
     <string name="fa_envelope" translatable="false">&#xf0e0;</string>
     <string name="fa_linkedin" translatable="false">&#xf0e1;</string>
     <string name="fa_rotate_left" translatable="false">&#xf0e2;</string>
-    <string name="fa_undo" translatable="false">&#xf0e2;</string>
-    <string name="fa_gavel" translatable="false">&#xf0e3;</string>
     <string name="fa_legal" translatable="false">&#xf0e3;</string>
     <string name="fa_dashboard" translatable="false">&#xf0e4;</string>
-    <string name="fa_tachometer" translatable="false">&#xf0e4;</string>
     <string name="fa_comment_o" translatable="false">&#xf0e5;</string>
     <string name="fa_comments_o" translatable="false">&#xf0e6;</string>
-    <string name="fa_bolt" translatable="false">&#xf0e7;</string>
     <string name="fa_flash" translatable="false">&#xf0e7;</string>
     <string name="fa_sitemap" translatable="false">&#xf0e8;</string>
     <string name="fa_umbrella" translatable="false">&#xf0e9;</string>
-    <string name="fa_clipboard" translatable="false">&#xf0ea;</string>
     <string name="fa_paste" translatable="false">&#xf0ea;</string>
     <string name="fa_lightbulb_o" translatable="false">&#xf0eb;</string>
     <string name="fa_exchange" translatable="false">&#xf0ec;</string>
@@ -245,7 +216,7 @@
     <string name="fa_user_md" translatable="false">&#xf0f0;</string>
     <string name="fa_stethoscope" translatable="false">&#xf0f1;</string>
     <string name="fa_suitcase" translatable="false">&#xf0f2;</string>
-    <string name="fa_bell" translatable="false">&#xf0f3;</string>
+    <string name="fa_bell_o" translatable="false">&#xf0a2;</string>
     <string name="fa_coffee" translatable="false">&#xf0f4;</string>
     <string name="fa_cutlery" translatable="false">&#xf0f5;</string>
     <string name="fa_file_text_o" translatable="false">&#xf0f6;</string>
@@ -268,7 +239,6 @@
     <string name="fa_desktop" translatable="false">&#xf108;</string>
     <string name="fa_laptop" translatable="false">&#xf109;</string>
     <string name="fa_tablet" translatable="false">&#xf10a;</string>
-    <string name="fa_mobile" translatable="false">&#xf10b;</string>
     <string name="fa_mobile_phone" translatable="false">&#xf10b;</string>
     <string name="fa_circle_o" translatable="false">&#xf10c;</string>
     <string name="fa_quote_left" translatable="false">&#xf10d;</string>
@@ -276,7 +246,6 @@
     <string name="fa_spinner" translatable="false">&#xf110;</string>
     <string name="fa_circle" translatable="false">&#xf111;</string>
     <string name="fa_mail_reply" translatable="false">&#xf112;</string>
-    <string name="fa_reply" translatable="false">&#xf112;</string>
     <string name="fa_github_alt" translatable="false">&#xf113;</string>
     <string name="fa_folder_o" translatable="false">&#xf114;</string>
     <string name="fa_folder_open_o" translatable="false">&#xf115;</string>
@@ -290,14 +259,10 @@
     <string name="fa_terminal" translatable="false">&#xf120;</string>
     <string name="fa_code" translatable="false">&#xf121;</string>
     <string name="fa_mail_reply_all" translatable="false">&#xf122;</string>
-    <string name="fa_reply_all" translatable="false">&#xf122;</string>
     <string name="fa_star_half_empty" translatable="false">&#xf123;</string>
-    <string name="fa_star_half_full" translatable="false">&#xf123;</string>
-    <string name="fa_star_half_o" translatable="false">&#xf123;</string>
     <string name="fa_location_arrow" translatable="false">&#xf124;</string>
     <string name="fa_crop" translatable="false">&#xf125;</string>
     <string name="fa_code_fork" translatable="false">&#xf126;</string>
-    <string name="fa_chain_broken" translatable="false">&#xf127;</string>
     <string name="fa_unlink" translatable="false">&#xf127;</string>
     <string name="fa_question" translatable="false">&#xf128;</string>
     <string name="fa_info" translatable="false">&#xf129;</string>
@@ -336,30 +301,17 @@
     <string name="fa_external_link_square" translatable="false">&#xf14c;</string>
     <string name="fa_share_square" translatable="false">&#xf14d;</string>
     <string name="fa_compass" translatable="false">&#xf14e;</string>
-    <string name="fa_caret_square_o_down" translatable="false">&#xf150;</string>
     <string name="fa_toggle_down" translatable="false">&#xf150;</string>
-    <string name="fa_caret_square_o_up" translatable="false">&#xf151;</string>
     <string name="fa_toggle_up" translatable="false">&#xf151;</string>
-    <string name="fa_caret_square_o_right" translatable="false">&#xf152;</string>
     <string name="fa_toggle_right" translatable="false">&#xf152;</string>
-    <string name="fa_eur" translatable="false">&#xf153;</string>
     <string name="fa_euro" translatable="false">&#xf153;</string>
     <string name="fa_gbp" translatable="false">&#xf154;</string>
     <string name="fa_dollar" translatable="false">&#xf155;</string>
-    <string name="fa_usd" translatable="false">&#xf155;</string>
-    <string name="fa_inr" translatable="false">&#xf156;</string>
     <string name="fa_rupee" translatable="false">&#xf156;</string>
     <string name="fa_cny" translatable="false">&#xf157;</string>
-    <string name="fa_jpy" translatable="false">&#xf157;</string>
-    <string name="fa_rmb" translatable="false">&#xf157;</string>
-    <string name="fa_yen" translatable="false">&#xf157;</string>
-    <string name="fa_rouble" translatable="false">&#xf158;</string>
-    <string name="fa_rub" translatable="false">&#xf158;</string>
     <string name="fa_ruble" translatable="false">&#xf158;</string>
-    <string name="fa_krw" translatable="false">&#xf159;</string>
     <string name="fa_won" translatable="false">&#xf159;</string>
     <string name="fa_bitcoin" translatable="false">&#xf15a;</string>
-    <string name="fa_btc" translatable="false">&#xf15a;</string>
     <string name="fa_file" translatable="false">&#xf15b;</string>
     <string name="fa_file_text" translatable="false">&#xf15c;</string>
     <string name="fa_sort_alpha_asc" translatable="false">&#xf15d;</string>
@@ -399,7 +351,6 @@
     <string name="fa_female" translatable="false">&#xf182;</string>
     <string name="fa_male" translatable="false">&#xf183;</string>
     <string name="fa_gittip" translatable="false">&#xf184;</string>
-    <string name="fa_gratipay" translatable="false">&#xf184;</string>
     <string name="fa_sun_o" translatable="false">&#xf185;</string>
     <string name="fa_moon_o" translatable="false">&#xf186;</string>
     <string name="fa_archive" translatable="false">&#xf187;</string>
@@ -411,12 +362,10 @@
     <string name="fa_stack_exchange" translatable="false">&#xf18d;</string>
     <string name="fa_arrow_circle_o_right" translatable="false">&#xf18e;</string>
     <string name="fa_arrow_circle_o_left" translatable="false">&#xf190;</string>
-    <string name="fa_caret_square_o_left" translatable="false">&#xf191;</string>
     <string name="fa_toggle_left" translatable="false">&#xf191;</string>
     <string name="fa_dot_circle_o" translatable="false">&#xf192;</string>
     <string name="fa_wheelchair" translatable="false">&#xf193;</string>
     <string name="fa_vimeo_square" translatable="false">&#xf194;</string>
-    <string name="fa_try" translatable="false">&#xf195;</string>
     <string name="fa_turkish_lira" translatable="false">&#xf195;</string>
     <string name="fa_plus_square_o" translatable="false">&#xf196;</string>
     <string name="fa_space_shuttle" translatable="false">&#xf197;</string>
@@ -424,10 +373,7 @@
     <string name="fa_envelope_square" translatable="false">&#xf199;</string>
     <string name="fa_wordpress" translatable="false">&#xf19a;</string>
     <string name="fa_openid" translatable="false">&#xf19b;</string>
-    <string name="fa_bank" translatable="false">&#xf19c;</string>
     <string name="fa_institution" translatable="false">&#xf19c;</string>
-    <string name="fa_university" translatable="false">&#xf19c;</string>
-    <string name="fa_graduation_cap" translatable="false">&#xf19d;</string>
     <string name="fa_mortar_board" translatable="false">&#xf19d;</string>
     <string name="fa_yahoo" translatable="false">&#xf19e;</string>
     <string name="fa_google" translatable="false">&#xf1a0;</string>
@@ -437,7 +383,7 @@
     <string name="fa_stumbleupon" translatable="false">&#xf1a4;</string>
     <string name="fa_delicious" translatable="false">&#xf1a5;</string>
     <string name="fa_digg" translatable="false">&#xf1a6;</string>
-    <string name="fa_pied_piper" translatable="false">&#xf1a7;</string>
+    <string name="fa_pied_piper_pp" translatable="false">&#xf1a7;</string>
     <string name="fa_pied_piper_alt" translatable="false">&#xf1a8;</string>
     <string name="fa_drupal" translatable="false">&#xf1a9;</string>
     <string name="fa_joomla" translatable="false">&#xf1aa;</string>
@@ -455,9 +401,7 @@
     <string name="fa_steam_square" translatable="false">&#xf1b7;</string>
     <string name="fa_recycle" translatable="false">&#xf1b8;</string>
     <string name="fa_automobile" translatable="false">&#xf1b9;</string>
-    <string name="fa_car" translatable="false">&#xf1b9;</string>
     <string name="fa_cab" translatable="false">&#xf1ba;</string>
-    <string name="fa_taxi" translatable="false">&#xf1ba;</string>
     <string name="fa_tree" translatable="false">&#xf1bb;</string>
     <string name="fa_spotify" translatable="false">&#xf1bc;</string>
     <string name="fa_deviantart" translatable="false">&#xf1bd;</string>
@@ -467,41 +411,25 @@
     <string name="fa_file_word_o" translatable="false">&#xf1c2;</string>
     <string name="fa_file_excel_o" translatable="false">&#xf1c3;</string>
     <string name="fa_file_powerpoint_o" translatable="false">&#xf1c4;</string>
-    <string name="fa_file_image_o" translatable="false">&#xf1c5;</string>
     <string name="fa_file_photo_o" translatable="false">&#xf1c5;</string>
-    <string name="fa_file_picture_o" translatable="false">&#xf1c5;</string>
-    <string name="fa_file_archive_o" translatable="false">&#xf1c6;</string>
     <string name="fa_file_zip_o" translatable="false">&#xf1c6;</string>
-    <string name="fa_file_audio_o" translatable="false">&#xf1c7;</string>
     <string name="fa_file_sound_o" translatable="false">&#xf1c7;</string>
     <string name="fa_file_movie_o" translatable="false">&#xf1c8;</string>
-    <string name="fa_file_video_o" translatable="false">&#xf1c8;</string>
     <string name="fa_file_code_o" translatable="false">&#xf1c9;</string>
     <string name="fa_vine" translatable="false">&#xf1ca;</string>
     <string name="fa_codepen" translatable="false">&#xf1cb;</string>
     <string name="fa_jsfiddle" translatable="false">&#xf1cc;</string>
     <string name="fa_life_bouy" translatable="false">&#xf1cd;</string>
-    <string name="fa_life_buoy" translatable="false">&#xf1cd;</string>
-    <string name="fa_life_ring" translatable="false">&#xf1cd;</string>
-    <string name="fa_life_saver" translatable="false">&#xf1cd;</string>
-    <string name="fa_support" translatable="false">&#xf1cd;</string>
     <string name="fa_circle_o_notch" translatable="false">&#xf1ce;</string>
     <string name="fa_ra" translatable="false">&#xf1d0;</string>
-    <string name="fa_rebel" translatable="false">&#xf1d0;</string>
-    <string name="fa_empire" translatable="false">&#xf1d1;</string>
     <string name="fa_ge" translatable="false">&#xf1d1;</string>
     <string name="fa_git_square" translatable="false">&#xf1d2;</string>
     <string name="fa_git" translatable="false">&#xf1d3;</string>
-    <string name="fa_hacker_news" translatable="false">&#xf1d4;</string>
     <string name="fa_y_combinator_square" translatable="false">&#xf1d4;</string>
-    <string name="fa_yc_square" translatable="false">&#xf1d4;</string>
     <string name="fa_tencent_weibo" translatable="false">&#xf1d5;</string>
     <string name="fa_qq" translatable="false">&#xf1d6;</string>
     <string name="fa_wechat" translatable="false">&#xf1d7;</string>
-    <string name="fa_weixin" translatable="false">&#xf1d7;</string>
-    <string name="fa_paper_plane" translatable="false">&#xf1d8;</string>
     <string name="fa_send" translatable="false">&#xf1d8;</string>
-    <string name="fa_paper_plane_o" translatable="false">&#xf1d9;</string>
     <string name="fa_send_o" translatable="false">&#xf1d9;</string>
     <string name="fa_history" translatable="false">&#xf1da;</string>
     <string name="fa_circle_thin" translatable="false">&#xf1db;</string>
@@ -511,7 +439,6 @@
     <string name="fa_share_alt" translatable="false">&#xf1e0;</string>
     <string name="fa_share_alt_square" translatable="false">&#xf1e1;</string>
     <string name="fa_bomb" translatable="false">&#xf1e2;</string>
-    <string name="fa_futbol_o" translatable="false">&#xf1e3;</string>
     <string name="fa_soccer_ball_o" translatable="false">&#xf1e3;</string>
     <string name="fa_tty" translatable="false">&#xf1e4;</string>
     <string name="fa_binoculars" translatable="false">&#xf1e5;</string>
@@ -550,9 +477,7 @@
     <string name="fa_ioxhost" translatable="false">&#xf208;</string>
     <string name="fa_angellist" translatable="false">&#xf209;</string>
     <string name="fa_cc" translatable="false">&#xf20a;</string>
-    <string name="fa_ils" translatable="false">&#xf20b;</string>
     <string name="fa_shekel" translatable="false">&#xf20b;</string>
-    <string name="fa_sheqel" translatable="false">&#xf20b;</string>
     <string name="fa_meanpath" translatable="false">&#xf20c;</string>
     <string name="fa_buysellads" translatable="false">&#xf20d;</string>
     <string name="fa_connectdevelop" translatable="false">&#xf20e;</string>
@@ -575,7 +500,6 @@
     <string name="fa_mars" translatable="false">&#xf222;</string>
     <string name="fa_mercury" translatable="false">&#xf223;</string>
     <string name="fa_intersex" translatable="false">&#xf224;</string>
-    <string name="fa_transgender" translatable="false">&#xf224;</string>
     <string name="fa_transgender_alt" translatable="false">&#xf225;</string>
     <string name="fa_venus_double" translatable="false">&#xf226;</string>
     <string name="fa_mars_double" translatable="false">&#xf227;</string>
@@ -591,27 +515,20 @@
     <string name="fa_server" translatable="false">&#xf233;</string>
     <string name="fa_user_plus" translatable="false">&#xf234;</string>
     <string name="fa_user_times" translatable="false">&#xf235;</string>
-    <string name="fa_bed" translatable="false">&#xf236;</string>
     <string name="fa_hotel" translatable="false">&#xf236;</string>
     <string name="fa_viacoin" translatable="false">&#xf237;</string>
     <string name="fa_train" translatable="false">&#xf238;</string>
     <string name="fa_subway" translatable="false">&#xf239;</string>
     <string name="fa_medium" translatable="false">&#xf23a;</string>
-    <string name="fa_y_combinator" translatable="false">&#xf23b;</string>
     <string name="fa_yc" translatable="false">&#xf23b;</string>
     <string name="fa_optin_monster" translatable="false">&#xf23c;</string>
     <string name="fa_opencart" translatable="false">&#xf23d;</string>
     <string name="fa_expeditedssl" translatable="false">&#xf23e;</string>
     <string name="fa_battery_4" translatable="false">&#xf240;</string>
-    <string name="fa_battery_full" translatable="false">&#xf240;</string>
     <string name="fa_battery_3" translatable="false">&#xf241;</string>
-    <string name="fa_battery_three_quarters" translatable="false">&#xf241;</string>
     <string name="fa_battery_2" translatable="false">&#xf242;</string>
-    <string name="fa_battery_half" translatable="false">&#xf242;</string>
     <string name="fa_battery_1" translatable="false">&#xf243;</string>
-    <string name="fa_battery_quarter" translatable="false">&#xf243;</string>
     <string name="fa_battery_0" translatable="false">&#xf244;</string>
-    <string name="fa_battery_empty" translatable="false">&#xf244;</string>
     <string name="fa_mouse_pointer" translatable="false">&#xf245;</string>
     <string name="fa_i_cursor" translatable="false">&#xf246;</string>
     <string name="fa_object_group" translatable="false">&#xf247;</string>
@@ -624,15 +541,10 @@
     <string name="fa_balance_scale" translatable="false">&#xf24e;</string>
     <string name="fa_hourglass_o" translatable="false">&#xf250;</string>
     <string name="fa_hourglass_1" translatable="false">&#xf251;</string>
-    <string name="fa_hourglass_start" translatable="false">&#xf251;</string>
     <string name="fa_hourglass_2" translatable="false">&#xf252;</string>
-    <string name="fa_hourglass_half" translatable="false">&#xf252;</string>
     <string name="fa_hourglass_3" translatable="false">&#xf253;</string>
-    <string name="fa_hourglass_end" translatable="false">&#xf253;</string>
     <string name="fa_hourglass" translatable="false">&#xf254;</string>
     <string name="fa_hand_grab_o" translatable="false">&#xf255;</string>
-    <string name="fa_hand_rock_o" translatable="false">&#xf255;</string>
-    <string name="fa_hand_paper_o" translatable="false">&#xf256;</string>
     <string name="fa_hand_stop_o" translatable="false">&#xf256;</string>
     <string name="fa_hand_scissors_o" translatable="false">&#xf257;</string>
     <string name="fa_hand_lizard_o" translatable="false">&#xf258;</string>
@@ -654,7 +566,6 @@
     <string name="fa_firefox" translatable="false">&#xf269;</string>
     <string name="fa_opera" translatable="false">&#xf26a;</string>
     <string name="fa_internet_explorer" translatable="false">&#xf26b;</string>
-    <string name="fa_television" translatable="false">&#xf26c;</string>
     <string name="fa_tv" translatable="false">&#xf26c;</string>
     <string name="fa_contao" translatable="false">&#xf26d;</string>
     <string name="fa_500px" translatable="false">&#xf26e;</string>
@@ -694,4 +605,33 @@
     <string name="fa_bluetooth" translatable="false">&#xf293;</string>
     <string name="fa_bluetooth_b" translatable="false">&#xf294;</string>
     <string name="fa_percent" translatable="false">&#xf295;</string>
+    <string name="fa_gitlab" translatable="false">&#xf296;</string>
+    <string name="fa_wpbeginner" translatable="false">&#xf297;</string>
+    <string name="fa_wpforms" translatable="false">&#xf298;</string>
+    <string name="fa_envira" translatable="false">&#xf299;</string>
+    <string name="fa_universal_access" translatable="false">&#xf29a;</string>
+    <string name="fa_wheelchair_alt" translatable="false">&#xf29b;</string>
+    <string name="fa_question_circle_o" translatable="false">&#xf29c;</string>
+    <string name="fa_blind" translatable="false">&#xf29d;</string>
+    <string name="fa_audio_description" translatable="false">&#xf29e;</string>
+    <string name="fa_volume_control_phone" translatable="false">&#xf2a0;</string>
+    <string name="fa_braille" translatable="false">&#xf2a1;</string>
+    <string name="fa_assistive_listening_systems" translatable="false">&#xf2a2;</string>
+    <string name="fa_asl_interpreting" translatable="false">&#xf2a3;</string>
+    <string name="fa_deafness" translatable="false">&#xf2a4;</string>
+    <string name="fa_glide" translatable="false">&#xf2a5;</string>
+    <string name="fa_glide_g" translatable="false">&#xf2a6;</string>
+    <string name="fa_signing" translatable="false">&#xf2a7;</string>
+    <string name="fa_low_vision" translatable="false">&#xf2a8;</string>
+    <string name="fa_viadeo" translatable="false">&#xf2a9;</string>
+    <string name="fa_viadeo_square" translatable="false">&#xf2aa;</string>
+    <string name="fa_snapchat" translatable="false">&#xf2ab;</string>
+    <string name="fa_snapchat_ghost" translatable="false">&#xf2ac;</string>
+    <string name="fa_snapchat_square" translatable="false">&#xf2ad;</string>
+    <string name="fa_pied_piper" translatable="false">&#xf2ae;</string>
+    <string name="fa_first_order" translatable="false">&#xf2b0;</string>
+    <string name="fa_yoast" translatable="false">&#xf2b1;</string>
+    <string name="fa_themeisle" translatable="false">&#xf2b2;</string>
+    <string name="fa_google_plus_circle" translatable="false">&#xf2b3;</string>
+    <string name="fa_fa" translatable="false">&#xf2b4;</string>
 </resources>
